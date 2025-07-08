@@ -1,0 +1,27 @@
+# Ignore build files and IDE files
+target/
+*.class
+*.jar
+*.war
+
+# IntelliJ or Eclipse settings
+.idea/
+*.iml
+*.iws
+.project
+.settings/
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Environment
+.env
