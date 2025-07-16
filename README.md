@@ -101,22 +101,4 @@ bankapp/
 
 ---
 
-## 📃 License
 
-This project is licensed under the MIT License.
-
-````
-
----
-
-### ✅ Final Step:
-
-After saving the file, push it to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add README.md"
-git push
-````
-
-Let me know if you'd like to add badges (e.g., Java version, build status) or advanced sections!
