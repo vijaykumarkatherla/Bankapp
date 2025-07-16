@@ -1,18 +1,4 @@
-Great! Here's a simple and professional `README.md` template for your **Spring Boot Bank App** project.
 
----
-
-### ✅ Step-by-step:
-
-1. Open your terminal in the project folder (`bankapp`).
-2. Run this command to create the `README.md`:
-
-   ```bash
-   notepad README.md
-   ```
-3. Paste the following content into Notepad, then **Save & Close** the file.
-
----
 
 ### 📄 `README.md` content (copy this into Notepad):
 
